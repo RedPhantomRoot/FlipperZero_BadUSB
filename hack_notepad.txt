@@ -1,0 +1,14 @@
+REM Author: TK-Elliot
+DELAY 1000
+GUI D
+DELAY 1000
+GUI R
+DELAY 1000
+STRING powershell.exe
+ENTER
+DELAY 1000
+STRING notepad.exe
+ENTER
+DELAY 1000
+STRING I hacked you
+ENTER
