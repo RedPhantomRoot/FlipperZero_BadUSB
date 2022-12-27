@@ -1,0 +1,18 @@
+REM Author: TK-Elliot
+REM This only works for Japanese keyboard.
+DELAY 1000
+GUI D
+DELAY 1000
+GUI R
+DELAY 1000
+STRING powershell.exe
+ENTER
+DELAY 1000
+REM "C:\Program Files\Google\Chrome\Application\chrome.exe"
+STRING start @C'/Program Files/Google/Chrome/Application/chrome.exe@
+ENTER
+DELAY 3000
+STRING I hacked you
+ENTER
+DELAY 500
+GUI UPARROW
