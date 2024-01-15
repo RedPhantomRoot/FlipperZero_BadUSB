@@ -1,4 +1,4 @@
-# This is a script for convert Japanese keyboard to US keyboard.
+# This is a script for converting Japanese keyboard to US keyboard.
 
 convert_dict = {"\"": "@", "&": "^", "'": "&", "(": "*", ")": "(", "=": "_", 
         "~": "+", "^": "=", "|": "}", "\\": "/", "`": "{", "@": "]", "{": "}", "[": "]",
